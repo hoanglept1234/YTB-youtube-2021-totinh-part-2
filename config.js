@@ -10,9 +10,9 @@ const CONFIG = {
     question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
+    reply: 'Tại vì anh là cả bầu trời của em 😊😊',
+    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 3 tỷ 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messLink: 'https://www.facebook.com/tran.hoang.2006
 }
